@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/BeeAZ-pm-pl/OneBlockScore
+build-by-default: true
+branches:
+- master
+projects:
+  OneBlockScore:
+    path: ""
+    lint: false
+...
